@@ -1,0 +1,19 @@
+{
+  "name": "sir-daniyal-class-online-tsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishal-aslam/Sir-Daniyal-Class-Online-TSC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishal-aslam/Sir-Daniyal-Class-Online-TSC/issues"
+  },
+  "homepage": "https://github.com/mishal-aslam/Sir-Daniyal-Class-Online-TSC#readme"
+}
